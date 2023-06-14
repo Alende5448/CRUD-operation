@@ -1,0 +1,40 @@
+[
+  {
+    "organization": "node  Nninja 511",
+    "createdAt": "2023-06-14T12:52:07.774Z",
+    "updatedAt": "2023-06-14T12:53:39.325Z",
+    "products": [
+      "developers",
+      "pizza"
+    ],
+    "marketValue": "90%",
+    "address": "sangotedo",
+    "ceo": "cn",
+    "country": "Taiwan",
+    "id": 1,
+    "noOfEmployees": 2,
+    "employees": [
+      "james bond",
+      "jackie chan"
+    ]
+  },
+  {
+    "organization": "node  Nninja 512",
+    "products": [
+      "developers",
+      "pizza"
+    ],
+    "marketValue": "90%",
+    "address": "sangotedo",
+    "ceo": "cn",
+    "country": "Taiwan",
+    "employees": [
+      "james bond",
+      "jackie chan"
+    ],
+    "createdAt": "2023-06-14T12:55:58.198Z",
+    "updatedAt": "2023-06-14T12:55:58.198Z",
+    "noOfEmployees": 2,
+    "id": 2
+  }
+]
